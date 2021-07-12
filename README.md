@@ -20,6 +20,8 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 <br />
 <br />
 
+[![mdabdulkaderjoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabdulkaderjoni)](https://github.com/mdabdulkaderjoni/github-readme-stats)
+
 
 
 
