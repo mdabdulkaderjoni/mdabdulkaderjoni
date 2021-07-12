@@ -5,6 +5,8 @@
 
 I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Computer Science and Engineering student at Primeasia University. When I'm not on my study or coding, you'll find me reading books, playing chess or watching movies.
 
+### 📱 Find me on
+
 [![](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-abdul-kader-joni-852871202/) [![](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/abd.joni.9)
 
 
@@ -25,14 +27,22 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 
 # Languages and Tools
 
+### 👩‍💻 Languages
+
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚡ Database
+
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-(https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 (https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 (https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -53,5 +63,5 @@ https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Micr
 
 
 
-(https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
