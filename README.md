@@ -1,7 +1,7 @@
 [![Header](https://user-images.githubusercontent.com/70408080/125334303-0d5bea00-e36d-11eb-9b47-075a2f95dbf7.jpg "Header")](https://www.linkedin.com/in/md-abdul-kader-joni-852871202/)
 
 
-### Hi there, I'm Md. Abdul Kader 👋
+### Hi there, I'm Md. Abdul Kader <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Computer Science and Engineering student at Primeasia University. When I'm not on my study or coding, you'll find me reading books, playing chess or watching movies.
 
@@ -19,6 +19,7 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 
 <br />
 <br />
+
 
 
 
