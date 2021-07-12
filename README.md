@@ -5,7 +5,7 @@
 
 I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Computer Science and Engineering student at Primeasia University. When I'm not on my study or coding, you'll find me reading books, playing chess or watching movies.
 
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat&logo=appveyor)](https://www.linkedin.com/in/md-abdul-kader-joni-852871202/)
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-abdul-kader-joni-852871202/)
 
 ## I'm a Stuent, Developer, and Blogger!!
 
