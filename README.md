@@ -24,7 +24,7 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 
 ## Languages and Tools
 
-[![Here My](https://img.shields.io/badge/EDITOR-VSCODE-blue?style=for-the-badge&logo=visual-studio-code)]
+![Here My](https://img.shields.io/badge/EDITOR-VSCODE-blue?style=for-the-badge&logo=visual-studio-code)
 
 
 
