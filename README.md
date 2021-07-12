@@ -7,7 +7,7 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 
 ### 📱 Find me on
 
-[![](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-abdul-kader-joni-852871202/) [![](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/abd.joni.9)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdul-kader-joni-852871202/) [![](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/abd.joni.9)
 
 
 
