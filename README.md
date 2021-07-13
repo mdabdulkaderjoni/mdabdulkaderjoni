@@ -86,14 +86,7 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 
 <br/>
 
-# More Info
 
-<a href="https://github.com/mdabdulkaderjoni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdabdulkaderjoni&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/mdabdulkaderjoni/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdabdulkaderjoni&repo=convoychat" />
-</a>
 
 
 
