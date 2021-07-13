@@ -86,9 +86,7 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 
 <br/>
 
-# My Wakatime Week Stats
 
-[![Md. Abdul Kader Joni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdabdulkaderjoni)](https://github.com/mdabdulkaderjoni/github-readme-stats)
 
 
 
