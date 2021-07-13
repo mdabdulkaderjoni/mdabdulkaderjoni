@@ -25,7 +25,14 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 <br />
 <br />
 
-[![mdabdulkaderjoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabdulkaderjoni&theme=dark&show_icons=true)](https://github.com/mdabdulkaderjoni/github-readme-stats)
+# My Github Stats
+
+[![Md. Abdul Kader joni's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabdulkaderjoni&theme=dark&show_icons=true)](https://github.com/mdabdulkaderjoni/github-readme-stats)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulkaderjoni&theme=cobalt&show_icons=true)](https://github.com/mdabdulkaderjoni/github-readme-stats)
+
+<br />
+<br />
 
 # Languages and Tools
 
@@ -80,7 +87,7 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulkaderjoni)](https://github.com/mdabdulkaderjoni/github-readme-stats)
+
 
 
 
