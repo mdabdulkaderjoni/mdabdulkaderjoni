@@ -80,6 +80,7 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulkaderjoni)](https://github.com/mdabdulkaderjoni/github-readme-stats)
 
 
 
