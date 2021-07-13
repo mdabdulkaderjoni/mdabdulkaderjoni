@@ -23,7 +23,6 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mdabdulkaderjoni)
 
 <br />
-<br />
 
 # My Github Stats
 
@@ -31,7 +30,6 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulkaderjoni&theme=cobalt&show_icons=true)](https://github.com/mdabdulkaderjoni/github-readme-stats)
 
-<br />
 <br />
 
 # Languages and Tools
@@ -85,6 +83,13 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+<br/>
+
+# My Wakatime Week Stats
+
+[![Md. Abdul Kader Joni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdabdulkaderjoni)](https://github.com/mdabdulkaderjoni/github-readme-stats)
+
 
 
 
