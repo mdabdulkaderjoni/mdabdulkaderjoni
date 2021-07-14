@@ -28,7 +28,7 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 
 [![Md. Abdul Kader joni's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabdulkaderjoni&theme=dark&show_icons=true)](https://github.com/mdabdulkaderjoni/github-readme-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulkaderjoni&theme=cobalt&show_icons=true)](https://github.com/mdabdulkaderjoni/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulkaderjoni&card_width=550&theme=cobalt&show_icons=true)](https://github.com/mdabdulkaderjoni/github-readme-stats)
 
 <br />
 
@@ -62,27 +62,6 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-### 🌐 Web Browsers 
-
-![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-
-### 💻 OS
-
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 👩‍💻 IDE
-
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-
-### 👨‍💻 Office
-
-![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 <br/>
 
