@@ -26,7 +26,7 @@ I'm a passionate MERN Stake Web Developer. I love coding. I'm currently an Compu
 
 # My Github Stats
 
-[![Md. Abdul Kader joni's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabdulkaderjoni&theme=dark&show_icons=true)](https://github.com/mdabdulkaderjoni/github-readme-stats)
+[![Md. Abdul Kader joni's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabdulkaderjoni&card_width=550&theme=dark&show_icons=true)](https://github.com/mdabdulkaderjoni/github-readme-stats)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdulkaderjoni&card_width=550&theme=cobalt&show_icons=true)](https://github.com/mdabdulkaderjoni/github-readme-stats)
 
