@@ -1,4 +1,4 @@
-<img style="width:100%;" alt="Heading Image"  src="https://user-images.githubusercontent.com/70408080/125334303-0d5bea00-e36d-11eb-9b47-075a2f95dbf7.jpg"/>
+<img style="width:300px;" alt="Heading Image"  src="https://user-images.githubusercontent.com/70408080/125334303-0d5bea00-e36d-11eb-9b47-075a2f95dbf7.jpg"/>
 
 
 ### Hi there, I'm Md. Abdul Kader <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
